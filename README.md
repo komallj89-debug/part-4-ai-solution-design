@@ -12,7 +12,7 @@ In high-volume customer support environments, manual ticket triage creates opera
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 part-4-ai-solution-design/
 │
